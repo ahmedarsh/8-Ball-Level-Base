@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 52d91bec027d7cc439cffc93e347ad17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1396882102384446614
+    second: gameIn
+  - first:
+      213: -8930183416149874591
+    second: CUE
+  - first:
+      213: 2308424125875831988
+    second: Settings
+  - first:
+      213: 4871144478768221448
+    second: RemoveAds
+  - first:
+      213: -8629447350686194007
+    second: BGSmal
+  - first:
+      213: -1487696941651377919
+    second: PrivacyPolicey
+  - first:
+      213: 1122327153818350929
+    second: RateUs
+  - first:
+      213: 4530770355093785710
+    second: Play
+  - first:
+      213: -2279586401753507755
+    second: Exit
+  - first:
+      213: 1811043054489153887
+    second: SettingsBG
+  - first:
+      213: 8940093399761946724
+    second: Buy
+  - first:
+      213: 4867134954650277556
+    second: Select
+  - first:
+      213: 1780465463366736270
+    second: S_Handle1
+  - first:
+      213: -884442952951626992
+    second: S_Handle2
+  - first:
+      213: -4837687819692613893
+    second: Slider1
+  - first:
+      213: 2016039685063794466
+    second: Slider2
+  - first:
+      213: -2509917136221893449
+    second: Slider3
+  - first:
+      213: 5030062550547853177
+    second: CueSelectionBG
+  - first:
+      213: -8581041371685175234
+    second: LeaderBoardAchievements
+  - first:
+      213: 8020908265579363590
+    second: PowerSliderBg
+  - first:
+      213: -3861125820231828996
+    second: PoerSlider
+  - first:
+      213: 1786246863626547964
+    second: Pause
+  - first:
+      213: 7709065772215593038
+    second: Lifer
+  - first:
+      213: 750720936422059032
+    second: SignIn
+  - first:
+      213: -8902095234566037508
+    second: SignOut
+  - first:
+      213: 3732965136159334474
+    second: ButtonBG
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 49
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gameIn
+      rect:
+        serializedVersion: 2
+        x: 3914
+        y: 13379
+        width: 1144
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d26f550e81d4c439457b49a45b3592
+      internalID: -1396882102384446614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUE
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 13394
+        width: 1174
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fcbb85e44bf964c866b6467bdfec06
+      internalID: -8930183416149874591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 13379
+        width: 1175
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8932449cc26b744979388e5571d206
+      internalID: 2308424125875831988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemoveAds
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 13394
+        width: 1175
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651c3f908bef1fc468a7a7949daf5da2
+      internalID: 4871144478768221448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BGSmal
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 13938
+        width: 5197
+        height: 734
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0963b72833fffce4b9dcadd8411b11a4
+      internalID: -8629447350686194007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacyPolicey
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 14758
+        width: 720
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e399b34017cb2f4dade2c3e9484c43d
+      internalID: -1487696941651377919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RateUs
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 14761
+        width: 776
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8317bd5325c8f2545b27aff7aea55fba
+      internalID: 1122327153818350929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 14855
+        width: 2552
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956091f87ce18ea49a87da4286955a0a
+      internalID: 4530770355093785710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 15621
+        width: 722
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303f205be837cdc43927546cf5667281
+      internalID: -2279586401753507755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsBG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9804
+        width: 5336
+        height: 3363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7427e40599048a4e930a456c9c33da2
+      internalID: 1811043054489153887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buy
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 9394
+        width: 498
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc20b18782bfe5429d9d0316ee3e766
+      internalID: 8940093399761946724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 9389
+        width: 502
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b90198a6079f8488793994bd3c821d
+      internalID: 4867134954650277556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Handle1
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 9372
+        width: 197
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ca89f2572f14745a3e125de9e26cd2
+      internalID: 1780465463366736270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Handle2
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 9617
+        width: 199
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010bc7787f75b344c9dc9e94f9ee4879
+      internalID: -884442952951626992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9282
+        width: 1874
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f15ce0fd4ec8d4f8776451b75d83b0
+      internalID: -4837687819692613893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9476
+        width: 1888
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd56f192b0d545c4d8e7815fe32b2689
+      internalID: 2016039685063794466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9658
+        width: 1881
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ec18331d7c8634eba0801c8e41a6cd
+      internalID: -2509917136221893449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CueSelectionBG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5774
+        width: 5336
+        height: 3384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76459142cfcb56d42ab98c599bf49829
+      internalID: 5030062550547853177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeaderBoardAchievements
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2344
+        width: 5336
+        height: 3385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853d2804dc6f50744b8bfcf3754efc00
+      internalID: -8581041371685175234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerSliderBg
+      rect:
+        serializedVersion: 2
+        x: 4881
+        y: 610
+        width: 343
+        height: 1685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0e9bc3ea321c04eaf329640242dcd5
+      internalID: 8020908265579363590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoerSlider
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 0
+        width: 295
+        height: 2321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad8144356f0e884da3503b85fce9b38
+      internalID: -3861125820231828996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1377
+        width: 352
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b465a6a850a97c54a9dffb0ba9d0eaaa
+      internalID: 1786246863626547964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lifer
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1424
+        width: 785
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6960b7180bb54bf459863c4f5b92e79a
+      internalID: 7709065772215593038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignIn
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1889
+        width: 1113
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f7c3839b405dc4796a8c4d3d0f1bf5
+      internalID: 750720936422059032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignOut
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1869
+        width: 1121
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b273bdaa8d04d694a8d25c08056df750
+      internalID: -8902095234566037508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonBG
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 1803
+        width: 1187
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0f0b7780a5ca947a084da2dde2e324
+      internalID: 3732965136159334474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
