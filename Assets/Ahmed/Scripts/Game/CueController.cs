@@ -764,19 +764,10 @@ public class CueController : MonoBehaviour
             newBallPos.z = ballHand.transform.position.z;
             ballHand.transform.position = newBallPos;
 
-			print ("in event hand");
-
-
-
-
-
             if (message.Contains("You"))
             {
                 message = message.Replace("You", GameManager.Instance.nameOpponent);
             }
-
-
-
 
             GameManager.Instance.mGameControllerScript.showMessage(message);
             GameManager.Instance.faultMessage = "";
@@ -830,10 +821,6 @@ public class CueController : MonoBehaviour
         { // Opponent called pocket
             GameManager.Instance.mGameControllerScript.showMessage(GameManager.Instance.nameOpponent + " " + StaticStrings.opponentCalledPocket);
             calledPockets[(int)content].SetActive(true);
-        }
-        else if (eventcode == 192)
-        {
-            invitiationDialog.GetComponent<PhotonChatListener2>().showInvitationDialog(null, null, null);
         }
         else if (eventcode == 151)
         {
